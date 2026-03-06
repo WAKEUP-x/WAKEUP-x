@@ -10,9 +10,9 @@
 
 <div align="center">
 
-# 🌿 Hi, I'm [Your Name] 👋
+# 🌿 Hi, I'm [Achraf Dagha] 👋
 
-### Biologist × Web Developer × Bioinformatician in progress
+### Biologist × Web Developer × Bioinformatician
 
 *Bridging the gap between wet lab biology and computational science*
 
@@ -23,7 +23,7 @@
 ## 🧬 About Me
 
 ```r
-name        <- "Your Name"
+name        <- "Achraf Dagha"
 location    <- "Morocco 🇲🇦"
 background  <- c("Biology", "Web Development", "Informatics")
 currently   <- "Learning bioinformatics & R for plant science"
