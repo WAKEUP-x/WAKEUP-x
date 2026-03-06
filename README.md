@@ -88,11 +88,11 @@ fun_fact    <- "I debug code the same way I troubleshoot experiments 🔬"
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WAKEUP-x&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WAKEUP-x&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WAKEUP-x&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WAKEUP-x&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WAKEUP-x&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=WAKEUP-x&theme=tokyonight&hide_border=true)
 
 </div>
 
