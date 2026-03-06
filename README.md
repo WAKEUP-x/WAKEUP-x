@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Visitor Badge -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
-[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/YourGitHubUsername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=WAKEUP-x.WAKEUP-x)
+[![GitHub followers](https://img.shields.io/github/followers/WAKEUP-x?label=Follow&style=social)](https://github.com/WAKEUP-x)
 
 </div>
 
@@ -78,7 +78,7 @@ fun_fact    <- "I debug code the same way I troubleshoot experiments 🔬"
 
 ## 📂 Featured Projects
 
-### 🧬 [bioinformatics_journey](https://github.com/YourGitHubUsername/bioinformatics_journey)
+### 🧬 [bioinformatics_journey](https://github.com/WAKEUP-x/bioinformatics_journey)
 > Gene expression data manipulation using GEOquery, tidyverse, and dplyr.
 > Dataset: GSE183947 | Tools: R, GEOquery, pivot_longer, left_join
 
