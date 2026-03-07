@@ -1,5 +1,8 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+I'm+Achraf+Dagha+👋;WAKEUP-x+on+GitHub+💻;Biologist+%26+Bioinformatician+🧬;Full-Stack+Developer+🚀)](https://git.io/typing-svg)
+
+
 <!-- Visitor Badge -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=WAKEUP-x.WAKEUP-x)
 [![GitHub followers](https://img.shields.io/github/followers/WAKEUP-x?label=Follow&style=social)](https://github.com/WAKEUP-x)
