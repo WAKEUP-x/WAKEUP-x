@@ -28,7 +28,7 @@
 ```r
 name        <- "Achraf Dagha"
 location    <- "Morocco 🇲🇦"
-background  <- c("Biology", "Web Development", "Informatics")
+background  <- "Biology" | "Web Development" | "Informatics"
 currently   <- "Learning bioinformatics & R for plant science"
 goal        <- "Publish research using public omics data"
 fun_fact    <- "I debug code the same way I troubleshoot experiments 🔬"
@@ -114,7 +114,7 @@ fun_fact    <- "I debug code the same way I troubleshoot experiments 🔬"
 
 <div align="center">
 
-*"Biology is the most powerful technology ever created. DNA is software, proteins are hardware, cells are factories."* — Marc Andreessen
+*"The good thing about science is that it's true whether or not you believe in it."* — Neil deGrasse Tyson
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
